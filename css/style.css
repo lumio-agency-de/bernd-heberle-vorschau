@@ -237,7 +237,6 @@ h1, h2, h3 { font-family: var(--serif); font-weight: 480; line-height: 1.08; let
   font-weight: 440;
   line-height: 1.02;
   letter-spacing: -0.015em;
-  text-transform: lowercase;
   max-width: 9.5em;
 }
 .hero__title em {
